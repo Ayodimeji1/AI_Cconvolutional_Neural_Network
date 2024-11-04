@@ -19,8 +19,8 @@ Ensure that Python is installed on your system. Follow these steps to set up the
 1. Clone this repository.
  ```
 git clone https://github.com/Ayodimeji1/CNN.git
-2. Install the necessary dependencies:
- 
+```
+2. Install the necessary dependencies: 
 
 ## Dataset
 The dataset used in this project consists of images of flowers, split into five categories. The data is loaded using TensorFlow's `tf.keras.utils.image_dataset_from_directory` method.
