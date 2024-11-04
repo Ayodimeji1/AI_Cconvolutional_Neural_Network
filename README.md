@@ -2,7 +2,7 @@
 # Convolutional Neural Network (CNN) Model for Image Classification
 
 ## Overview
-This project demonstrates a Convolutional Neural Network (CNN) built using TensorFlow and Keras for image classification tasks. The primary focus of the model is to classify images into different categories using a deep learning approach. The project is developed using Python and includes essential exploration, dataset preparation, model training, and evaluation steps.
+This project is a Convolutional Neural Network (CNN) built using TensorFlow and Keras for image classification tasks. The primary focus of the model is to classify images into different categories using a deep learning approach. The project is developed using Python and includes essential exploration, dataset preparation, model training, and evaluation steps.
 
 ## Table of Contents
 1. [Introduction](#introduction)
